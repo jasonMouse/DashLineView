@@ -1,6 +1,6 @@
 # DashLineView
 两头两个可以调节的半圆，中间用可控虚线连接，横竖方向可控的自定义View
-![图片](http://thyrsi.com/t6/649/1546502845x2890174315.png)
+![图片](https://github.com/jasonMouse/DashLineView/blob/master/app/src/main/assets/DashLinePicture.png)
 ```
 <!--两边两个半圆，中间一条虚线-->
 <declare-styleable name="DashLineView">
